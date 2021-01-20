@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Martin.
 
-### More Information
+### What I'm working on...
 
-A place to include any other types of information that you'd like to include about yourself.
+Notification process using ycamore.school, Google Sheets, Gmail & WhatsApp.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[luengas.martin@gmail.com](mailto:luengas.martin@gmail.com)
