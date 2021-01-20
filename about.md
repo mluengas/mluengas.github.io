@@ -8,7 +8,7 @@ Hi! I'm Martin.
 
 ### What I'm working on...
 
-Notification process using [Sycamore](sycamore.school), Google Sheets, Gmail & WhatsApp.
+Notification process using Sycamore, Google Sheets, Gmail & WhatsApp.
 
 ### Contact me
 
